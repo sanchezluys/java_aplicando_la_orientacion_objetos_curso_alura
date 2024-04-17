@@ -1,3 +1,5 @@
+import com.aluracursos.modelos.peliculas;
+
 public class Main {
     public static void main(String[] args) {
         peliculas miPelicula = new peliculas();
@@ -24,8 +26,12 @@ public class Main {
         System.out.println("Duracion en min es: "+ otraPelicula.duracion);
         System.out.println("Fecha de lanzamiento es: "+ otraPelicula.fechaLanzamiento);
         System.out.println("*******************************");
-
+        //**
         System.out.println("************* Impresion del objeto otraPelicula ******************");
         System.out.println(otraPelicula);
+        //**
+        System.out.println("****** Ahora usando la propiedad del objeto  ******************");
+        miPelicula.muestraFicha();
+
     }
 }

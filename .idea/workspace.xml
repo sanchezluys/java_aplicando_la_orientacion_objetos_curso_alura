@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ed8f2ea-f328-4b41-90b6-c7751b077907" name="Changes" comment="iniciando proyecto">
+    <list default="true" id="0ed8f2ea-f328-4b41-90b6-c7751b077907" name="Changes" comment="mostrando 2 clases, con su objeto">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/peliculas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/peliculas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +24,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "sanchezluys"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/sanchezluys/java_aplicando_la_orientacion_objetos_curso_alura.git",
@@ -73,11 +80,20 @@
       <option name="project" value="LOCAL" />
       <updated>1713295484601</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="mostrando 2 clases, con su objeto">
+      <option name="closed" value="true" />
+      <created>1713295757121</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713295757121</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="iniciando proyecto" />
-    <option name="LAST_COMMIT_MESSAGE" value="iniciando proyecto" />
+    <MESSAGE value="mostrando 2 clases, con su objeto" />
+    <option name="LAST_COMMIT_MESSAGE" value="mostrando 2 clases, con su objeto" />
   </component>
 </project>
